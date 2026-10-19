@@ -1,8 +1,8 @@
 class Smlnj < Formula
   desc "Compiler and programming system for Standard ML"
   homepage "https://www.smlnj.org/"
-  url "https://smlnj.org/dist/working/2026.2/smlnj-arm64-unix-2026.2.tgz"
-  sha256 "504119bc2cf8fab6f469e33126cdc16769777584822e89ff7e9866c06021cda4"
+  url "https://smlnj.org/dist/working/2026.3/smlnj-arm64-unix-2026.3.tgz"
+  sha256 "7d5826317a8be3a0b347cf4001d5354b9dfdc319f80c26e2c21f265de55154e1"
   license "BSD-3-Clause"
   head "https://github.com/smlnj/smlnj.git", branch: "main"
 
